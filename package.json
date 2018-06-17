@@ -17,6 +17,9 @@
     "starter": {
         "template": "https://github.com/jakehamilton/starter-typescript-template.git"
     },
+    "publishConfig": {
+        "access": "public"
+    },
     "scripts": {
         "build": "yarn run build:clean && yarn run build:code",
         "build:code": "tsc",
