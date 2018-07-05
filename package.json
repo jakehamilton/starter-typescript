@@ -1,0 +1,24 @@
+{
+  "name": "@starters/typescript",
+  "version": "1.0.0",
+  "description": "Start your next TypeScript project!",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jakehamilton/starter-typescript.git"
+  },
+  "keywords": [
+    "typescript",
+    "starter",
+    "boilerplate"
+  ],
+  "author": "Jake Hamilton <jehamilton122@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/jakehamilton/starter-typescript/issues"
+  },
+  "homepage": "https://github.com/jakehamilton/starter-typescript#readme"
+}
