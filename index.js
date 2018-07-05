@@ -1,3 +1,3 @@
 module.exports = {
-    repository: 'jakehamilton/starter-typescript',
+    repository: 'jakehamilton/starter-typescript-template',
 };
